@@ -17,6 +17,7 @@ Meant to be a random out-of-the-blue parody of Openverse that's supposed to be u
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+[![Run on Repl.it](https://repl.it/badge/github/ariankordi/closedverse)](https://repl.it/github/ariankordi/closedverse)
 # Usage
 It's a standard Django app.
 
